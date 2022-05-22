@@ -90,4 +90,37 @@ body {
 }
 .content__item {
   margin-bottom: 10px;
+}
+
+.teams_section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
+  background-color: black;
+  border: 1px solid #400303;
+  margin: 30px;
+  padding: 30px;
+  text-align: center;
+  margin-top: 15vh;
+}
+
+article {
+  margin-bottom: 50px;
+}
+
+h2,
+ul {
+  margin: 0;
+  text-align: justify;
+  padding: 0;
+}
+
+h2 {
+  color: #5f0505;
+  margin-bottom: 5px;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 5px;
 }/*# sourceMappingURL=main.css.map */
