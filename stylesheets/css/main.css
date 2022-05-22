@@ -80,6 +80,7 @@ body {
 .content__container {
   margin: 10px;
   border-left: 1px solid #400303;
+  padding: 10px;
 }
 .content__container:first-child {
   border: none;
