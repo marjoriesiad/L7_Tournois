@@ -1,0 +1,112 @@
+{
+    "teams": [{
+            "name": "TBD",
+            "id": 1,
+            "player_1": "L7_Hover",
+            "player_2": "Mayosims",
+            "player_3": "Syoshi",
+            "player_4": "L7_Nowa31",
+            "killer": "L7_Nowa31"
+        },
+
+        {
+            "name": "TBD",
+            "id": 2,
+            "player_1": "L7_Kaneki",
+            "player_2": "Faceman",
+            "player_3": "Pogo",
+            "player_4": "Djase",
+            "killer": "TBD"
+        },
+
+        {
+            "name": "TBD",
+            "id": 3,
+            "player_1": "Gonzo",
+            "player_2": "FormiGayte",
+            "player_3": "Mate de Gonzo",
+            "player_4": "Mate de Gonzo",
+            "killer": "TBD"
+        },
+
+        {
+            "name": "Team QC",
+            "id": 4,
+            "player_1": "Zoolox325",
+            "player_2": "Stitch14",
+            "player_3": "AdamsonQC",
+            "player_4": "Gabydal",
+            "killer": "TBD"
+        },
+
+        {
+            "name": "Les Geux",
+            "id": 5,
+            "player_1": "Jugoven",
+            "player_2": "Deydey_012",
+            "player_3": "Eleven_or_idk",
+            "player_4": "L7_Zoro",
+            "killer": "L7_Zoro"
+        },
+
+        {
+            "name": "Hellfest",
+            "id": 6,
+            "player_1": "L7_Hover",
+            "player_2": "Mayosims",
+            "player_3": "Syoshi",
+            "player_4": "L7_Nowa31",
+            "killer": "L7_Nowa31"
+        },
+
+        {
+            "name": "TBD",
+            "id": 7,
+            "player_1": "Lyna03500",
+            "player_2": "Wyvyrias",
+            "player_3": "Alexiefry",
+            "player_4": "xxLeBosse23xx",
+            "killer": "TBD"
+        },
+
+        {
+            "name": "Les Cultistes",
+            "id": 8,
+            "player_1": "Fendril",
+            "player_2": "Valedevastateur",
+            "player_3": "Darkfire774",
+            "player_4": "SCP_Skull",
+            "killer": "SCP_Skull"
+        },
+
+        {
+            "name": "La 5e Symphonie",
+            "id": 9,
+            "player_1": "Kaoru_o",
+            "player_2": "De Hale",
+            "player_3": "Islatouche",
+            "player_4": "Mate",
+            "killer": "TBD"
+        },
+
+        {
+            "name": "TBD",
+            "id": 10,
+            "player_1": "Canardboiteu66",
+            "player_2": "Mate",
+            "player_3": "Mate",
+            "player_4": "Mate",
+            "killer": "TBD"
+        },
+        {
+            "name": "Hazbin",
+            "id": 11,
+            "player_1": "L7_Aliycia",
+            "player_2": "Ptiflo44",
+            "player_3": "Usishire1910",
+            "player_4": "Ozuhd",
+            "killer": "Usishire1910"
+        }
+
+    ]
+}
