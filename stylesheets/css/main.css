@@ -49,6 +49,11 @@ body {
 .hero__button:hover {
   background-color: #2c0202;
 }
+.hero__discord {
+  text-decoration: none;
+  color: white;
+  margin-top: 60px;
+}
 
 body {
   color: white;
